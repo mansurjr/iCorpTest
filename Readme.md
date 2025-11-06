@@ -1,0 +1,21 @@
+# Interview API Demo
+
+This project demonstrates how to interact with a test API (`https://test.icorp.uz/interview.php`) using **Express**, **Axios**, and **Swagger**. The workflow covers sending a POST request, receiving a callback, concatenating codes, and verifying the result.
+
+---
+
+## Features
+
+- Sends an initial message to the test API (`POST /start`)
+- Receives the second part of the code via callback (`POST /callback`)
+- Concatenates both parts of the code and performs a GET request to verify
+- Fully documented using **Swagger UI** at `/api-docs`
+
+---
+
+## Installation
+
+1. Clone the repository:
+git clone https://github.com/mansurjr/iCorpTest
+cd iCorpTest
+npm i && npm run start
