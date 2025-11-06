@@ -15,7 +15,7 @@ This project demonstrates how to interact with a test API (`https://test.icorp.u
 
 ## Requirements
 
-- Publicly accessible server for the callback URL (your server IP is `18.158.178.73`)
+- Publicly accessible server for the callback URL 18.158.178.73:3000
 
 ---
 
