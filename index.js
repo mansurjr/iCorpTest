@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 
 const API_URL = "https://test.icorp.uz/interview.php";
-const PORT = 3000;
+const PORT = 8000;
 const BASE_URL = `http://18.158.178.73:${PORT}`;
 
 let firstPart = "";
