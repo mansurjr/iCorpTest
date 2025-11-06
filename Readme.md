@@ -1,4 +1,4 @@
-# Interview API Demo
+# API Demo
 
 This project demonstrates how to interact with a test API (`https://test.icorp.uz/interview.php`) using **Express**, **Axios**, and **Swagger**. The workflow covers sending a POST request, receiving a callback, concatenating codes, and verifying the result.
 
