@@ -15,8 +15,6 @@ This project demonstrates how to interact with a test API (`https://test.icorp.u
 
 ## Requirements
 
-- Node.js v18+
-- npm or yarn
 - Publicly accessible server for the callback URL (your server IP is `18.158.178.73`)
 
 ---
